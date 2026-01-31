@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Assignment1_AndroidViews">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".TextPreviewActivity" android:exported="false" android:label="@string/title_textview" />
+        <activity android:name=".InputShowcaseActivity" android:exported="false" android:label="@string/title_edittext" />
+        <activity android:name=".ActionButtonsActivity" android:exported="false" android:label="@string/title_button" />
+        <activity android:name=".GalleryViewActivity" android:exported="false" android:label="@string/title_imageview" />
+        <activity android:name=".OptionSelectionActivity" android:exported="false" android:label="@string/title_checkbox" />
+        <activity android:name=".ChoiceSelectorActivity" android:exported="false" android:label="@string/title_radiobutton" />
+        <activity android:name=".ToggleSwitchActivity" android:exported="false" android:label="@string/title_switch" />
+        <activity android:name=".StateButtonActivity" android:exported="false" android:label="@string/title_togglebutton" />
+        <activity android:name=".DropdownListActivity" android:exported="false" android:label="@string/title_spinner" />
+        <activity android:name=".SimpleListViewActivity" android:exported="false" android:label="@string/title_listview" />
+        <activity android:name=".ModernScrollActivity" android:exported="false" android:label="@string/title_recyclerview" />
+        <activity android:name=".GridDisplayActivity" android:exported="false" android:label="@string/title_gridview" />
+        <activity android:name=".LoadingStatesActivity" android:exported="false" android:label="@string/title_progressbar" />
+        <activity android:name=".SliderControlActivity" android:exported="false" android:label="@string/title_seekbar" />
+        <activity android:name=".FeedbackStarActivity" android:exported="false" android:label="@string/title_ratingbar" />
+        <activity android:name=".LinearBoxActivity" android:exported="false" android:label="@string/title_linearlayout" />
+        <activity android:name=".RelativeBoxActivity" android:exported="false" android:label="@string/title_relativelayout" />
+        <activity android:name=".FlexibleLayoutActivity" android:exported="false" android:label="@string/title_constraintlayout" />
+        <activity android:name=".StackLayoutActivity" android:exported="false" android:label="@string/title_framelayout" />
+        <activity android:name=".ScrollContentActivity" android:exported="false" android:label="@string/title_scrollview" />
+
+    </application>
+
+</manifest>

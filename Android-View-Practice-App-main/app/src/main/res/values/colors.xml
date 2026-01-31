@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Unique Theme Colors (Premium Indigo/Violet) -->
+    <color name="colorPrimary">#6E00FF</color>
+    <color name="colorPrimaryVariant">#4500A0</color>
+    <color name="colorSecondary">#00F5D4</color>
+    <color name="colorAccent">#F15BB5</color>
+
+    <!-- NEW Premium Background Colors -->
+    <color name="main_gradient_start">#0F0C29</color>
+    <color name="main_gradient_center">#302B63</color>
+    <color name="main_gradient_end">#24243E</color>
+
+    <!-- Button & Glass Colors -->
+    <color name="button_background">#FFFFFF</color>
+    <color name="button_text">#0F0C29</color>
+
+    <!-- Leanback Original Colors -->
+    <color name="background_gradient_start">#0F0C29</color>
+    <color name="background_gradient_end">#24243E</color>
+    <color name="fastlane_background">#1A1A2E</color>
+    <color name="search_opaque">#F15BB5</color>
+    <color name="selected_background">#6E00FF</color>
+    <color name="default_background">#0F0C29</color>
+</resources>

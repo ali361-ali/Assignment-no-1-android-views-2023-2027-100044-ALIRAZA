@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Android Views Assignment</string>
+    <string name="main_title">Android UI Views Menu</string>
+    <string name="browse_title">Browse</string>
+
+    <!-- Activity Titles -->
+    <string name="title_activity_main2">Main Activity 2</string>
+    <string name="title_textview">TextView Demo</string>
+    <string name="title_edittext">EditText Demo</string>
+    <string name="title_button">Button Demo</string>
+    <string name="title_imageview">ImageView Demo</string>
+    <string name="title_checkbox">CheckBox Demo</string>
+    <string name="title_radiobutton">RadioButton Demo</string>
+    <string name="title_switch">Switch Demo</string>
+    <string name="title_togglebutton">ToggleButton Demo</string>
+    <string name="title_spinner">Spinner Demo</string>
+    <string name="title_listview">ListView Demo</string>
+    <string name="title_recyclerview">RecyclerView Demo</string>
+    <string name="title_gridview">GridView Demo</string>
+    <string name="title_progressbar">ProgressBar Demo</string>
+    <string name="title_seekbar">SeekBar Demo</string>
+    <string name="title_ratingbar">RatingBar Demo</string>
+    <string name="title_linearlayout">LinearLayout Demo</string>
+    <string name="title_relativelayout">RelativeLayout Demo</string>
+    <string name="title_constraintlayout">ConstraintLayout Demo</string>
+    <string name="title_framelayout">FrameLayout Demo</string>
+    <string name="title_scrollview">ScrollView Demo</string>
+
+    <!-- Buttons in MainActivity -->
+    <string name="btn_textview">TextView</string>
+    <string name="btn_edittext">EditText</string>
+    <string name="btn_button">Button</string>
+    <string name="btn_imageview">ImageView</string>
+    <string name="btn_checkbox">CheckBox</string>
+    <string name="btn_radiobutton">RadioButton</string>
+    <string name="btn_switch">Switch</string>
+    <string name="btn_togglebutton">ToggleButton</string>
+    <string name="btn_spinner">Spinner</string>
+    <string name="btn_listview">ListView</string>
+    <string name="btn_recyclerview">RecyclerView</string>
+    <string name="btn_gridview">GridView</string>
+    <string name="btn_progressbar">ProgressBar</string>
+    <string name="btn_seekbar">SeekBar</string>
+    <string name="btn_ratingbar">RatingBar</string>
+    <string name="btn_linearlayout">LinearLayout</string>
+    <string name="btn_relativelayout">RelativeLayout</string>
+    <string name="btn_constraintlayout">ConstraintLayout</string>
+    <string name="btn_framelayout">FrameLayout</string>
+    <string name="btn_scrollview">ScrollView</string>
+
+    <!-- Content Strings -->
+    <string name="text_view_content">This is a TextView demonstrating basic text display with different styles.</string>
+    <string name="edit_text_hint">Type something here...</string>
+    <string name="btn_click_me">Click Me!</string>
+    <string name="button_clicked">Button was clicked!</string>
+    <string name="checkbox_label">Accept Terms and Conditions</string>
+    <string name="checkbox_status">CheckBox is: %s</string>
+    <string name="radio_option1">Option 1</string>
+    <string name="radio_option2">Option 2</string>
+    <string name="radio_selected">Selected: %s</string>
+    <string name="switch_label">Enable Notifications</string>
+    <string name="toggle_on">ON</string>
+    <string name="toggle_off">OFF</string>
+    <string name="spinner_prompt">Select an item</string>
+    <string name="seekbar_value">SeekBar Value: %d</string>
+    <string name="rating_value">Rating: %.1f / 5.0</string>
+    <string name="scroll_long_text">This is a very long text to demonstrate ScrollView. \n\nLine 1\nLine 2\nLine 3\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8\nLine 9\nLine 10\nLine 11\nLine 12\nLine 13\nLine 14\nLine 15\nLine 16\nLine 17\nLine 18\nLine 19\nLine 20\nLine 21\nLine 22\nLine 23\nLine 24\nLine 25\nLine 26\nLine 27\nLine 28\nLine 29\nLine 30\n\nEnd of ScrollView Demo.</string>
+    <string name="btn_submit">Submit</string>
+
+    <!-- Error Fragment Strings -->
+    <string name="error_fragment_message">An error has occurred. Please try again later.</string>
+    <string name="dismiss_error">Dismiss</string>
+
+    <!-- Preferences/Grid strings -->
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Settings</string>
+
+    <!-- Leanback/Detail strings -->
+    <string name="watch_trailer_1">Watch Trailer</string>
+    <string name="watch_trailer_2">Free</string>
+    <string name="rent_1">Rent</string>
+    <string name="rent_2">$3.99</string>
+    <string name="buy_1">Buy</string>
+    <string name="buy_2">$14.99</string>
+    <string name="related_movies">Related Movies</string>
+    <string name="movie">Movie</string>
+</resources>
